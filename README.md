@@ -1,6 +1,39 @@
-# Getting Started with Create React App
+# Steps App
+
+A simple multi-step React application demonstrating state management and UI updates. The app displays three steps with messages and allows navigation between them using Previous and Next buttons. You can also toggle the visibility of the steps panel.
+
+## Features
+
+- Three-step progress indicator
+- Dynamic message for each step
+- Previous/Next navigation
+- Panel can be closed/opened
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Prerequisites
+
+- Node.js (v14 or higher recommended)
+- npm
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone <your-repo-url>
+   cd steps
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   ```
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Available Scripts
 
